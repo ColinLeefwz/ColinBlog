@@ -1,0 +1,24 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <ns1:rankPointsInquiryResponse xmlns:ns1="http://lacoste.service.transaction.top.com/">
+      <customerLoginInfo>
+        <campaignPoint>0</campaignPoint>
+        <confirmPoint>0</confirmPoint>
+        <customerId>10343208</customerId>
+        <expiresoonDate></expiresoonDate>
+        <expiresoonMonthPoint>0</expiresoonMonthPoint>
+        <expiresoonPoint>0</expiresoonPoint>
+        <monthAvailablePoint>100000</monthAvailablePoint>
+        <monthUsingPoints>2000</monthUsingPoints>
+        <neededAmount>25750</neededAmount>
+        <nextRankName>シルバー</nextRankName>
+        <oldRankName></oldRankName>
+        <rankChangeTime>2015-02-08 13:51:19</rankChangeTime>
+        <rankDefaultRatios>1</rankDefaultRatios>
+        <rankName>アクティブ</rankName>
+        <returnCode>200</returnCode>
+        <temporaryPoint>42</temporaryPoint>
+      </customerLoginInfo>
+    </ns1:rankPointsInquiryResponse>
+  </soap:Body>
+</soap:Envelope>

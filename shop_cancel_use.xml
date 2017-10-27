@@ -1,0 +1,10 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <ns1:shopCancelUseManagerResponse xmlns:ns1="http://lacoste.service.transaction.top.com/">
+      <cancelUseResult>
+        <cancelUsePoints>0</cancelUsePoints>
+        <returnCode>8014</returnCode>
+      </cancelUseResult>
+    </ns1:shopCancelUseManagerResponse>
+  </soap:Body>
+</soap:Envelope>

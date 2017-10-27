@@ -1,0 +1,17 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <ns1:membershipRegistrationResponse xmlns:ns1="http://lacoste.service.transaction.top.com/">
+      <registrationResult>
+        <detail>
+          <customerId>10343208</customerId>
+          <detailCode>5005</detailCode>
+          <memberNumber>3000001000343208</memberNumber>
+        </detail>
+        <errorCount>1</errorCount>
+        <returnCode>8000</returnCode>
+        <successCount>0</successCount>
+        <totalCount>1</totalCount>
+      </registrationResult>
+    </ns1:membershipRegistrationResponse>
+  </soap:Body>
+</soap:Envelope>

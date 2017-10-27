@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emails type="array">
+  <email>
+    <user-agent nil="true"/>
+    <newsletter-unsubscribed-at nil="true"/>
+    <newsletter-subscribed-at nil="true"/>
+    <mail-type>HTML</mail-type>
+    <device-id nil="true"/>
+    <user-id type="integer">342646</user-id>
+    <updated-at>2015-02-05T14:48:28Z</updated-at>
+    <email-address>ys8707@hanmail.net</email-address>
+    <created-at>2015-02-05T14:48:28Z</created-at>
+    <id type="integer">523190</id>
+  </email>
+</emails>

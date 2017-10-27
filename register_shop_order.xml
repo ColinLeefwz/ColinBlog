@@ -1,0 +1,22 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <ns1:purchaseRegistrationShopResponse xmlns:ns1="http://lacoste.service.transaction.top.com/">
+      <shopPurchaseResult>
+        <detail>
+          <confirmPoint>0</confirmPoint>
+          <customerId>10343208</customerId>
+          <detailCode>200</detailCode>
+          <givePoint>42</givePoint>
+          <monthAvailablePoint>100000</monthAvailablePoint>
+          <monthUsingPoints>2000</monthUsingPoints>
+          <orderId>61b6ad82f70707e4521381753161b8bc</orderId>
+          <temporaryPoint>126</temporaryPoint>
+        </detail>
+        <errorCount>0</errorCount>
+        <returnCode>200</returnCode>
+        <successCount>1</successCount>
+        <totalCount>1</totalCount>
+      </shopPurchaseResult>
+    </ns1:purchaseRegistrationShopResponse>
+  </soap:Body>
+</soap:Envelope>

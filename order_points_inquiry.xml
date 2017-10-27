@@ -1,0 +1,9 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <ns1:purchaseInquiryEcResponse xmlns:ns1="http://lacoste.service.transaction.top.com/">
+      <purchaseInquiryEcResult>
+        <returnCode>5008</returnCode>
+      </purchaseInquiryEcResult>
+    </ns1:purchaseInquiryEcResponse>
+  </soap:Body>
+</soap:Envelope>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<points type="array">
+  <point>
+    <note nil="true"/>
+    <shop-id>216</shop-id>
+    <id type="integer">736617</id>
+    <points type="integer">7182</points>
+    <employee-id nil="true"/>
+    <items type="integer">1</items>
+    <order-id type="integer">282404</order-id>
+    <created-at>2015-02-05T14:57:31Z</created-at>
+    <team-lacoste-user-id>7000000000342646</team-lacoste-user-id>
+    <amount type="integer">7812</amount>
+  </point>
+</points>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<points type="array">
+  <point>
+    <shop-id>238</shop-id>
+    <order-id nil="true"/>
+    <note></note>
+    <points type="integer">0</points>
+    <items type="integer">1</items>
+    <user-id type="integer">163012</user-id>
+    <employee-id>0041220</employee-id>
+    <created-at>2015-02-05T21:40:49Z</created-at>
+    <id type="integer">736546</id>
+    <team-lacoste-user-id>1000001700001800</team-lacoste-user-id>
+    <amount type="integer">7560</amount>
+  </point>
+  <point>
+    <shop-id>025</shop-id>
+    <order-id nil="true"/>
+    <note></note>
+    <points type="integer">0</points>
+    <items type="integer">2</items>
+    <user-id type="integer">342638</user-id>
+    <employee-id nil="true"/>
+    <created-at>2015-02-05T21:23:34Z</created-at>
+    <id type="integer">736537</id>
+    <team-lacoste-user-id>3000025000342638</team-lacoste-user-id>
+    <amount type="integer">22032</amount>
+  </point>
+  <point>
+    <shop-id>032</shop-id>
+    <order-id nil="true"/>
+    <note></note>
+    <points type="integer">23000</points>
+    <items type="integer">2</items>
+    <user-id type="integer">342484</user-id>
+    <employee-id nil="true"/>
+    <created-at>2015-02-05T21:00:57Z</created-at>
+    <id type="integer">736524</id>
+    <team-lacoste-user-id>3000032000342484</team-lacoste-user-id>
+    <amount type="integer">24840</amount>
+  </point>
+  <point>
+    <shop-id>005</shop-id>
+    <order-id nil="true"/>
+    <note></note>
+    <points type="integer">0</points>
+    <items type="integer">1</items>
+    <user-id type="integer">342636</user-id>
+    <employee-id nil="true"/>
+    <created-at>2015-02-05T20:54:42Z</created-at>
+    <id type="integer">736516</id>
+    <team-lacoste-user-id>3000005000342636</team-lacoste-user-id>
+    <amount type="integer">6804</amount>
+  </point>
+  <point>
+    <shop-id>228</shop-id>
+    <order-id nil="true"/>
+    <note></note>
+    <points type="integer">0</points>
+    <items type="integer">2</items>
+    <user-id type="integer">84771</user-id>
+    <employee-id>6016540</employee-id>
+    <created-at>2015-02-05T20:50:03Z</created-at>
+    <id type="integer">736517</id>
+    <team-lacoste-user-id>1000000400002840</team-lacoste-user-id>
+    <amount type="integer">16200</amount>
+  </point>
+  <point>
+    <shop-id>253</shop-id>
+    <order-id nil="true"/>
+    <note></note>
+    <points type="integer">0</points>
+    <items type="integer">1</items>
+    <user-id type="integer">337611</user-id>
+    <employee-id>0061883</employee-id>
+    <created-at>2015-02-05T20:48:06Z</created-at>
+    <id type="integer">736507</id>
+    <team-lacoste-user-id>2000001000337611</team-lacoste-user-id>
+    <amount type="integer">8640</amount>
+  </point>
+  <point>
+    <shop-id>048</shop-id>
+    <order-id nil="true"/>
+    <note></note>
+    <points type="integer">0</points>
+    <items type="integer">2</items>
+    <user-id type="integer">342637</user-id>
+    <employee-id nil="true"/>
+    <created-at>2015-02-05T20:43:00Z</created-at>
+    <id type="integer">736504</id>
+    <team-lacoste-user-id>2000048000342637</team-lacoste-user-id>
+    <amount type="integer">1404</amount>
+  </point>
+  <point>
+    <shop-id>229</shop-id>
+    <order-id nil="true"/>
+    <note></note>
+    <points type="integer">0</points>
+    <items type="integer">1</items>
+    <user-id type="integer">240607</user-id>
+    <employee-id>0041291</employee-id>
+    <created-at>2015-02-05T20:35:19Z</created-at>
+    <id type="integer">736497</id>
+    <team-lacoste-user-id>2000001000240607</team-lacoste-user-id>
+    <amount type="integer">8100</amount>
+  </point>
+  <point>
+    <shop-id>072</shop-id>
+    <order-id nil="true"/>
+    <note></note>
+    <points type="integer">15000</points>
+    <items type="integer">1</items>
+    <user-id type="integer">49437</user-id>
+    <employee-id></employee-id>
+    <created-at>2015-02-05T20:32:17Z</created-at>
+    <id type="integer">736499</id>
+    <team-lacoste-user-id>1000007500000837</team-lacoste-user-id>
+    <amount type="integer">16200</amount>
+  </point>
+  <point>
+    <shop-id>229</shop-id>
+    <order-id nil="true"/>
+    <note></note>
+    <points type="integer">0</points>
+    <items type="integer">3</items>
+    <user-id type="integer">160821</user-id>
+    <employee-id>0061710</employee-id>
+    <created-at>2015-02-05T20:32:12Z</created-at>
+    <id type="integer">736500</id>
+    <team-lacoste-user-id>1000000100004162</team-lacoste-user-id>
+    <amount type="integer">16416</amount>
+  </point>
+  <point>
+    <shop-id>018</shop-id>
+    <order-id nil="true"/>
+    <note></note>
+    <points type="integer">0</points>
+    <items type="integer">1</items>
+    <user-id type="integer">305335</user-id>
+    <employee-id nil="true"/>
+    <created-at>2015-02-05T20:30:48Z</created-at>
+    <id type="integer">736495</id>
+    <team-lacoste-user-id>3000018000305335</team-lacoste-user-id>
+    <amount type="integer">14796</amount>
+  </point>
+  <point>
+    <shop-id>229</shop-id>
+    <order-id nil="true"/>
+    <note></note>
+    <points type="integer">0</points>
+    <items type="integer">1</items>
+    <user-id type="integer">67878</user-id>
+    <employee-id nil="true"/>
+    <created-at>2015-02-05T20:22:25Z</created-at>
+    <id type="integer">736489</id>
+    <team-lacoste-user-id>1000002300000964</team-lacoste-user-id>
+    <amount type="integer">8370</amount>
+  </point>
+  <point>
+    <shop-id>025</shop-id>
+    <order-id nil="true"/>
+    <note></note>
+    <points type="integer">0</points>
+    <items type="integer">1</items>
+    <user-id type="integer">230842</user-id>
+    <employee-id nil="true"/>
+    <created-at>2015-02-05T20:16:24Z</created-at>
+    <id type="integer">736481</id>
+    <team-lacoste-user-id>3000025000230842</team-lacoste-user-id>
+    <amount type="integer">2160</amount>
+  </point>
+  <point>
+    <shop-id>238</shop-id>
+    <order-id nil="true"/>
+    <note></note>
+    <points type="integer">0</points>
+    <items type="integer">3</items>
+    <user-id type="integer">233072</user-id>
+    <employee-id>0061763</employee-id>
+    <created-at>2015-02-05T20:15:13Z</created-at>
+    <id type="integer">736482</id>
+    <team-lacoste-user-id>2000238000233072</team-lacoste-user-id>
+    <amount type="integer">28620</amount>
+  </point>
+  <point>
+    <shop-id>004</shop-id>
+    <order-id nil="true"/>
+    <note></note>
+    <points type="integer">12000</points>
+    <items type="integer">1</items>
+    <user-id type="integer">277199</user-id>
+    <employee-id nil="true"/>
+    <created-at>2015-02-05T20:09:45Z</created-at>
+    <id type="integer">736480</id>
+    <team-lacoste-user-id>3000004000277199</team-lacoste-user-id>
+    <amount type="integer">12960</amount>
+  </point>
+  <point>
+    <shop-id>224</shop-id>
+    <order-id nil="true"/>
+    <note></note>
+    <points type="integer">0</points>
+    <items type="integer">1</items>
+    <user-id type="integer">49437</user-id>
+    <employee-id></employee-id>
+    <created-at>2015-02-05T20:06:59Z</created-at>
+    <id type="integer">736474</id>
+    <team-lacoste-user-id>1000007500000837</team-lacoste-user-id>
+    <amount type="integer">4158</amount>
+  </point>
+  <point>
+    <shop-id>063</shop-id>
+    <order-id nil="true"/>
+    <note></note>
+    <points type="integer">15000</points>
+    <items type="integer">1</items>
+    <user-id type="integer">109919</user-id>
+    <employee-id></employee-id>
+    <created-at>2015-02-05T20:04:08Z</created-at>
+    <id type="integer">736470</id>
+    <team-lacoste-user-id>1000011900000471</team-lacoste-user-id>
+    <amount type="integer">16200</amount>
+  </point>
+</points>

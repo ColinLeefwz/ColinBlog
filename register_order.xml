@@ -1,0 +1,15 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <ns1:purchaseRegistrationEcResponse xmlns:ns1="http://lacoste.service.transaction.top.com/">
+      <ecPurchaseResult>
+        <confirmPoint>0</confirmPoint>
+        <givePoint>0</givePoint>
+        <monthAvailablePoint>0</monthAvailablePoint>
+        <monthUsingPoints>0</monthUsingPoints>
+        <orderId>10268898</orderId>
+        <returnCode>5007</returnCode>
+        <temporaryPoint>0</temporaryPoint>
+      </ecPurchaseResult>
+    </ns1:purchaseRegistrationEcResponse>
+  </soap:Body>
+</soap:Envelope>

@@ -1,0 +1,13 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <ns1:purchaseCancellationShopResponse xmlns:ns1="http://lacoste.service.transaction.top.com/">
+      <shopCancelResult>
+        <cancelConfirmPoints>0</cancelConfirmPoints>
+        <cancelTemporaryPoints>42</cancelTemporaryPoints>
+        <orderId>61b6ad82f70707e4521381753161b8bc</orderId>
+        <periodFlg>0</periodFlg>
+        <returnCode>200</returnCode>
+      </shopCancelResult>
+    </ns1:purchaseCancellationShopResponse>
+  </soap:Body>
+</soap:Envelope>

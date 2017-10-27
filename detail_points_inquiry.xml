@@ -1,0 +1,168 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Body>
+    <ns1:detailedPointsInquiryResponse xmlns:ns1="http://lacoste.service.transaction.top.com/">
+      <customerPoint>
+        <confirmPoint>0</confirmPoint>
+        <customerId>10343208</customerId>
+        <monthAvailablePoint>100000</monthAvailablePoint>
+        <monthUsingPoints>2000</monthUsingPoints>
+        <pointRecords>
+          <pointRecord>
+            <amountInvolved>4250</amountInvolved>
+            <changeDate>2015-02-07 16:48:39</changeDate>
+            <changeReason>店舗購買</changeReason>
+            <confirmPoint>0</confirmPoint>
+            <deadline></deadline>
+            <detailReasons>
+              <confirmPoint>0</confirmPoint>
+              <deadline>2016-02-27 04:00:00</deadline>
+              <detailReason>通常ポイント</detailReason>
+              <temporaryPoint>42</temporaryPoint>
+              <usableDate>2015-02-27 03:00:00</usableDate>
+            </detailReasons>
+            <orderId>b8ccc76752f0ae74a647e28d2345e022</orderId>
+            <shopId>1004</shopId>
+            <temporaryPoint>42</temporaryPoint>
+            <usableDate>2015-02-27 03:00:00</usableDate>
+            <usePoint>0</usePoint>
+          </pointRecord>
+          <pointRecord>
+            <amountInvolved>0</amountInvolved>
+            <changeDate>2015-02-08 13:51:19</changeDate>
+            <changeReason>日比谷店新規入会</changeReason>
+            <confirmPoint>1000</confirmPoint>
+            <deadline>2015-03-12 04:00:00</deadline>
+            <orderId></orderId>
+            <shopId>1</shopId>
+            <temporaryPoint>0</temporaryPoint>
+            <usableDate>2015-02-08 13:51:19</usableDate>
+            <usePoint>0</usePoint>
+          </pointRecord>
+          <pointRecord>
+            <amountInvolved>4250</amountInvolved>
+            <changeDate>2015-02-08 13:55:17</changeDate>
+            <changeReason>店舗購買</changeReason>
+            <confirmPoint>0</confirmPoint>
+            <deadline></deadline>
+            <detailReasons>
+              <confirmPoint>0</confirmPoint>
+              <deadline>2016-02-28 04:00:00</deadline>
+              <detailReason>通常ポイント</detailReason>
+              <temporaryPoint>42</temporaryPoint>
+              <usableDate>2015-02-28 03:00:00</usableDate>
+            </detailReasons>
+            <orderId>61b6ad82f70707e4521381753161b8bc</orderId>
+            <shopId>1004</shopId>
+            <temporaryPoint>42</temporaryPoint>
+            <usableDate>2015-02-28 03:00:00</usableDate>
+            <usePoint>0</usePoint>
+          </pointRecord>
+          <pointRecord>
+            <amountInvolved>0</amountInvolved>
+            <changeDate>2015-02-08 14:00:01</changeDate>
+            <changeReason>POSでの利用ポイント</changeReason>
+            <confirmPoint>-1000</confirmPoint>
+            <deadline></deadline>
+            <detailReasons>
+              <confirmPoint>0</confirmPoint>
+              <deadline></deadline>
+              <detailReason>通常ポイント</detailReason>
+              <temporaryPoint>0</temporaryPoint>
+              <usableDate></usableDate>
+            </detailReasons>
+            <detailReasons>
+              <confirmPoint>1000</confirmPoint>
+              <deadline></deadline>
+              <detailReason>日比谷店新規入会</detailReason>
+              <temporaryPoint>0</temporaryPoint>
+              <usableDate></usableDate>
+            </detailReasons>
+            <orderId></orderId>
+            <shopId>1004</shopId>
+            <temporaryPoint>0</temporaryPoint>
+            <usableDate></usableDate>
+            <usePoint>1000</usePoint>
+          </pointRecord>
+          <pointRecord>
+            <amountInvolved>0</amountInvolved>
+            <changeDate>2015-02-08 18:46:47</changeDate>
+            <changeReason>POSでの利用ポイントの取戻し</changeReason>
+            <confirmPoint>1000</confirmPoint>
+            <deadline>2016-02-09 04:00:00</deadline>
+            <orderId></orderId>
+            <shopId>1004</shopId>
+            <temporaryPoint>0</temporaryPoint>
+            <usableDate>2015-02-08 18:46:47</usableDate>
+            <usePoint>0</usePoint>
+          </pointRecord>
+          <pointRecord>
+            <amountInvolved>0</amountInvolved>
+            <changeDate>2015-02-08 18:48:02</changeDate>
+            <changeReason>POSでの利用ポイント</changeReason>
+            <confirmPoint>-1000</confirmPoint>
+            <deadline></deadline>
+            <detailReasons>
+              <confirmPoint>-1000</confirmPoint>
+              <deadline></deadline>
+              <detailReason>通常ポイント</detailReason>
+              <temporaryPoint>0</temporaryPoint>
+              <usableDate></usableDate>
+            </detailReasons>
+            <orderId></orderId>
+            <shopId>1004</shopId>
+            <temporaryPoint>0</temporaryPoint>
+            <usableDate></usableDate>
+            <usePoint>1000</usePoint>
+          </pointRecord>
+          <pointRecord>
+            <amountInvolved>4250</amountInvolved>
+            <changeDate>2015-02-08 18:48:49</changeDate>
+            <changeReason>店舗購買</changeReason>
+            <confirmPoint>0</confirmPoint>
+            <deadline></deadline>
+            <detailReasons>
+              <confirmPoint>0</confirmPoint>
+              <deadline>2016-02-28 04:00:00</deadline>
+              <detailReason>通常ポイント</detailReason>
+              <temporaryPoint>42</temporaryPoint>
+              <usableDate>2015-02-28 03:00:00</usableDate>
+            </detailReasons>
+            <orderId>d2af21ec389c05c805d1bb05b4102a64</orderId>
+            <shopId>1004</shopId>
+            <temporaryPoint>42</temporaryPoint>
+            <usableDate>2015-02-28 03:00:00</usableDate>
+            <usePoint>0</usePoint>
+          </pointRecord>
+          <pointRecord>
+            <amountInvolved>-4250</amountInvolved>
+            <changeDate>2015-02-10 02:22:26</changeDate>
+            <changeReason>店舗注文キャンセル</changeReason>
+            <confirmPoint>0</confirmPoint>
+            <deadline></deadline>
+            <detailReasons>
+              <confirmPoint>0</confirmPoint>
+              <deadline></deadline>
+              <detailReason>通常ポイント</detailReason>
+              <temporaryPoint>-42</temporaryPoint>
+              <usableDate></usableDate>
+            </detailReasons>
+            <detailReasons>
+              <confirmPoint>0</confirmPoint>
+              <deadline></deadline>
+              <detailReason>通常ポイント</detailReason>
+              <temporaryPoint>-42</temporaryPoint>
+              <usableDate></usableDate>
+            </detailReasons>
+            <orderId>61b6ad82f70707e4521381753161b8bc</orderId>
+            <shopId>1004</shopId>
+            <temporaryPoint>-42</temporaryPoint>
+            <usableDate></usableDate>
+            <usePoint>0</usePoint>
+          </pointRecord>
+        </pointRecords>
+        <returnCode>200</returnCode>
+        <temporaryPoint>42</temporaryPoint>
+      </customerPoint>
+    </ns1:detailedPointsInquiryResponse>
+  </soap:Body>
+</soap:Envelope>
