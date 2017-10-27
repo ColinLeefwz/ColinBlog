@@ -1,9 +1,0 @@
-<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
-  <soap:Body>
-    <ns1:shopUseManagerResponse xmlns:ns1="http://lacoste.service.transaction.top.com/">
-      <usePointsResult>
-      <returnCode>8014</returnCode>
-      </usePointsResult>
-    </ns1:shopUseManagerResponse>
-  </soap:Body>
-</soap:Envelope>
